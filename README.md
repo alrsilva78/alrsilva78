@@ -2,6 +2,10 @@
 
 💻 Minhas principais hard skills são:
 <br>
+✔️ HTML5
+<br>
+✔️ CSS3
+<br>
 ✔️ Python
 <br>
 ✔️ SQL
@@ -26,6 +30,10 @@
 ✔️ Em andamento C pela Unigranrio
 <br>
 ✔️ Certificado em Python pelo Curso em Vídeo
+<br>
+✔️ Certificado em HTML5 na OneBitCode
+<br>
+✔️ Certificado em CSS3 na OneBitCode
 <br>
 ✔️ Em andamento C# pela DevSuperior
 <br>
