@@ -10,8 +10,6 @@
 <br>
 ✔️ SQL
 <br>
-✔️ C#
-<br>
 ✔️ C
 <br>
 ✔️ GIT/ GITHUB
