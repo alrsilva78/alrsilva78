@@ -2,6 +2,10 @@
 
 💻 Minhas principais hard skills são:
 <br>
+✔️Java
+<br>
+✔️SpringBoot
+<br>
 ✔️ HTML5
 <br>
 ✔️ CSS3
